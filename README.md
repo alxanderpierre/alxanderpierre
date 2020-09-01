@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🏆 I am currently Technical Project Lead leading a team of Web Developers🧑‍💻 and Data Engineers🧑‍💻 on the development of an application for a Non-Profit company called [SaverLife](https://www.saverlife.org/) 🏦.
+🏆 I am currently a Technical Project Lead leading a team of Web Developers🧑‍💻 and Data Engineers🧑‍💻 on the development of an application for a Non-Profit company called [SaverLife](https://www.saverlife.org/) 🏦.
 
 👀 I am looking to further my technical experience in an exciting new role 🤩. 
 My strong leadership skills 🥇  and passion for learning makes me an excellent candidate for any data 📊 related role 😄 .
