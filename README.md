@@ -1,5 +1,5 @@
 <!-- Your title -->
-## I'm Pierre, and I'm a Data Scientist 🚀 🔮 .
+## Hi 👋 I'm Pierre, and I'm a Data Scientist 🚀 🔮 .
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
