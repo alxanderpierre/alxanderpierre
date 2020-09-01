@@ -27,13 +27,13 @@ Take a look at my [Portfolio](http://pierreanelson.com/) 💼
 
  **🌴 Fun Facts:**
 
-- 👨🏽‍💻 I once owned two Ecommerce Stores;
-- 🌱 I highly enjoy webscraping sites for data; 
+- 👨🏽‍💻 I once owned two successful Ecommerce Stores
+- 🌱 I highly enjoy webscraping sites for data
 - ⛹️‍♂️ I LOVE Sports;
-- 🏆 I'm super competitive 😤;
-- 💬 Highly Creative;
-- 🤝 Very easy to work with;
-- 📫 How to reach me: PierreaNelson20@gmail.com;
+- 🏆 I'm super competitive 😤
+- 💬 Highly Creative
+- 🤝 Very easy to work with
+- 📫 How to reach me: PierreaNelson20@gmail.com
 
 **Languages and Tools:** 
 
